@@ -1,7 +1,7 @@
 
 ## Simple To Do List
 
-Simple To Do List using hooks in React
+Simple To Do List using React Hooks (specifically useState)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
